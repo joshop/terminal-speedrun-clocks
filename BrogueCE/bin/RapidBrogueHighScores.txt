@@ -1,0 +1,30 @@
+42748	1736828484	Escaped the Dungeons of Doom!
+41408	1737080290	Escaped the Dungeons of Doom!
+40940	1736813967	Escaped the Dungeons of Doom!
+5629	1737145802	Killed by a cloud of caustic gas on depth 5.
+4937	1737774706	Killed by a golem on depth 7.
+4394	1736904166	Killed by a fury on depth 5.
+4072	1736994927	Killed by a naga on depth 5.
+3402	1738720861	Killed by a cloud of caustic gas on depth 5.
+2888	1738702407	Killed by a flame turret on depth 4.
+2874	1736956066	Killed by an underworm on depth 4.
+2426	1737252062	Killed by a dar blademaster on depth 5.
+2122	1736954461	Killed by a wraith on depth 3.
+2109	1737127737	Killed by a centaur on depth 3.
+2010	1737004815	Killed by a revenant on depth 4.
+1999	1737753025	Killed by a tentacle horror on depth 6.
+1945	1738000553	Killed by a kraken on depth 4.
+1875	1737001845	Killed by a wraith on depth 5.
+1786	1737751005	Killed by an ogre on depth 3.
+1780	1736886463	Burned to death on depth 4.
+1669	1736906043	Killed by an arrow turret on depth 3.
+1608	1737343317	Killed by a goblin on depth 3.
+1356	1736956468	Killed by a centaur on depth 3.
+1336	1736999879	Killed by a vampire bat on depth 2.
+1323	1736782473	Killed by a dar blademaster on depth 4.
+1283	1737094239	Killed by a toad on depth 3.
+1262	1736781838	Killed by lava on depth 3.
+1244	1736995757	Killed by a naga on depth 3.
+1067	1737396815	Killed by an ogre on depth 2.
+1007	1736886942	Killed by a goblin on depth 3.
+2813	1739229614	Killed by an underworm on depth 3.
